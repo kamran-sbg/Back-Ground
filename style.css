@@ -12,6 +12,12 @@ body {
   height: 100vh;
 }
 
+h4 {
+  padding-top: 30px;
+  word-spacing: 0 px;
+  text-align: center;
+}
+
 div {
   display: flex;
   justify-content: space-evenly;
